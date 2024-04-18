@@ -36,12 +36,12 @@ body {
 	display: none; 
 } 
 
-.menu .menu-list { 
+.menu .menu2 { 
 	display: flex; 
 	list-style: none; 
 } 
 
-.menu-list .menu-list-items { 
+.menu2 .menu3 { 
 	padding: 0.5rem 1rem; 
 } 
 
@@ -123,7 +123,7 @@ body {
 	border-top-left-radius: 20px; 
 } 
 
-/* 專業技能 */
+/* 個人興趣/專業技能 */
 .services { 
 	display: flex; 
 	align-items: center; 
@@ -246,7 +246,7 @@ body {
     font-weight: bolder; 
 }
 
-.links:hover { 
+.mylinks:hover { 
 	border-bottom: 2px solid #fff; 
 } 
 
